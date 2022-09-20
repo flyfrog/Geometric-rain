@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c14e1bb3ea3647038271387367973876, type: 3}
+  m_Name: SoundSettings
+  m_EditorClassIdentifier: 
+  playerChangeMoveDirection: {fileID: 8300000, guid: 2f7506a60d8e0ed40b554d6548c64353, type: 3}
+  playerHitBorderMovingArea: {fileID: 8300000, guid: 9a26b438cef8289479ca83080bf8af25, type: 3}
+  playerExplosion: {fileID: 8300000, guid: 3a961164886f67e47a8836232d249bc4, type: 3}
+  addScore: {fileID: 8300000, guid: 3f960521786fe0a4ca51c606750d5563, type: 3}
+  addScoreExplosion: {fileID: 8300000, guid: 73954926fd53cf04c86344a08e282a11, type: 3}
+  hitFallShape: {fileID: 8300000, guid: 328caaa0f47ebb74a8ff49219ffc71e3, type: 3}
+  openPanel: {fileID: 8300000, guid: 1b7a4e182c9b69241a4c4130ea3ade56, type: 3}
+  click: {fileID: 8300000, guid: ed1cbf896f69dbd41967244185f99c6e, type: 3}
